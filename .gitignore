@@ -1,0 +1,30 @@
+# Pliki i foldery Pythona
+__pycache__/
+*.py[cod]
+
+# Pliki środowiska wirtualnego
+venv/
+env/
+
+# Pliki Jupyter Notebook checkpoint
+.ipynb_checkpoints/
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+
+# Pliki konfiguracyjne edytorów
+.vscode/
+.idea/
+
+# Pliki tymczasowe
+*.log
+*.tmp
+
+# Pliki danych/Excel
+*.xlsx
+*.csv
+
+# Tokeny, klucze API itp. (jeśli osobne pliki)
+secrets.json
+.env
